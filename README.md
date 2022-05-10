@@ -20,7 +20,11 @@ I'd suggest running the healthcare_chatbotConsole.py on google collab or any oth
 The newlogin.py should show you the login screen if it runs on your python IDE.
 
 Finally the team members in this group are:
-P VISHNU TEJA REDDY
-Madhu.M
-Ankit
-ProDipesh
+
+P Vishnu Teja Reddy : 1CR16EC102
+
+Madhu. BN : 1BG201S402
+
+Ankith Praveen : 1BY18IS026
+
+Dipesh Bikram Singh : 1BY18CS199
