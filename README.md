@@ -1,5 +1,5 @@
 # Compsoft-Project-Internship-Healthcare-Chat-Bot
-an internship project that aims to run a chatbot.
+This is an internship project that aims to run a chatbot.
 This is a chatbot made in reference to the healthcare chat bot by Aryan Vetuvalkar's one in the github repository
 
 To run this chatbot, you need to have installed numpy, pandas and matplotlib
@@ -18,6 +18,8 @@ According to the original readme, run QuestionDiagonosisTkinter.py to run the pr
 I'd suggest running the healthcare_chatbotConsole.py on google collab or any other similar software to get the output for medical symptoms and finding out about the right doctor.
 
 The newlogin.py should show you the login screen if it runs on your python IDE.
+
+As proof that we attempted the project and for convenience, please check the compsoft_technology_project_internship_health_care_chatbot.ipynb file on google colab
 
 Finally the team members in this group are:
 
